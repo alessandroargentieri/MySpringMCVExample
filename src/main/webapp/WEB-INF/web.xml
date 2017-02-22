@@ -19,7 +19,7 @@
     <!-- servlet-mapping of dispatcher servlet (Single servlet of Spring MVC -->
     <servlet-mapping>
         <servlet-name>dispatcher</servlet-name>
-        <url-pattern>/spring-mvc/*</url-pattern>
+        <url-pattern>spring-mvc/*</url-pattern>
     </servlet-mapping>
     <!-- end of servlet-mapping of dispatcher servlet (Single servlet of Spring MVC -->
     
